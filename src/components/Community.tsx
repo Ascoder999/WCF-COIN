@@ -27,7 +27,7 @@ export default function Community() {
         <p className="text-white/80 text-xl mt-4 text-center">
           Be part of the most explosive meme coin of 2026.
           <br />
-          Don't watch from the stands — get your $FINALBOSS now.
+          Don't watch from the stands — get your $WCF now.
         </p>
         
         <div className="flex justify-center gap-5 mt-8 flex-wrap">

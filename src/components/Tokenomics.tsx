@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer'
 
 const tokenomicsData = [
   { icon: '💰', title: 'Total Supply', value: '1,000,000,000', description: '1 Billion $WCF', gradient: 'from-yellow-300 to-orange-500' },
-  { icon: '🔥', title: 'Liquidity Locked', value: '100%', description: 'for 5 years — safe as a fortress', gradient: 'from-red-400 to-orange-500' },
+  { icon: '🔥', title: 'Liquidity Locked', value: '100%', description: 'for 5 years - safe as a fortress', gradient: 'from-red-400 to-orange-500' },
   { icon: '🎯', title: 'Marketing & Dev', value: '5%', description: 'for global domination & World Cup campaigns', gradient: 'from-blue-400 to-purple-500' }
 ]
 

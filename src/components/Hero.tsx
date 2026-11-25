@@ -37,7 +37,7 @@ export default function Hero() {
         transition={{ duration: 0.8, delay: 0.4 }}
         className="text-white/80 text-lg md:text-2xl max-w-2xl mt-8 backdrop-blur-sm px-4 py-2 rounded-2xl"
       >
-        The most legendary meme coin of the 2026 World Cup Finals.
+        The most legendary meme coin of the 2030 World Cup Finals.
         <br className="hidden md:block"/>
         <span className="text-yellow-300 font-bold">Power, glory, and moon shots.</span> Join the WCF army.
       </motion.p>
